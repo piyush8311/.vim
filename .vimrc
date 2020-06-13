@@ -1,3 +1,5 @@
+set tabstop=4
+set shiftwidth=4
 call plug#begin()
 Plug 'jiangmiao/auto-pairs'
 Plug 'kien/ctrlp.vim'
