@@ -1,4 +1,10 @@
-
+call plug#begin()
+Plug 'jiangmiao/auto-pairs'
+Plug 'kien/ctrlp.vim'
+Plug 'preservim/nerdtree'
+Plug 'artur-shaik/vim-javacomplete2'
+Plug 'Valloric/YouCompleteMe'
+call plug#end()
 " An example for a vimrc file.
 "
 " Maintainer:	Bram Moolenaar <Bram@vim.org>
