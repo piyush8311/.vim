@@ -67,3 +67,4 @@ endif " has("autocmd")
 if has('syntax') && has('eval')
   packadd! matchit
 endif
+set relativenumber
